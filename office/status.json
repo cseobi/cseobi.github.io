@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-10-29T01:08:22.830Z",
+  "bots": {
+    "ops": {
+      "state": "idle"
+    },
+    "paper": {
+      "state": "idle"
+    },
+    "threeD": {
+      "state": "idle"
+    },
+    "ai": {
+      "state": "idle"
+    },
+    "seatpm": {
+      "state": "idle"
+    },
+    "seatdev": {
+      "state": "idle"
+    },
+    "plan": {
+      "state": "idle"
+    },
+    "dev": {
+      "state": "idle"
+    },
+    "infra": {
+      "state": "idle"
+    },
+    "sec": {
+      "state": "idle"
+    }
+  },
+  "pendingApprovals": {}
+}
